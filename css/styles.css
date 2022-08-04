@@ -286,6 +286,8 @@ background-color: var(--third-background);
 
 /* Portfolio */
 
+<<<<<<< HEAD
+=======
 .button-container {
     display: flex;
     justify-content: center;
@@ -295,6 +297,7 @@ background-color: var(--third-background);
 .button-item:not(:last-child) {
     margin-right: 9px;
 }
+>>>>>>> 15d3c9fccd146a4d27358e02aab787f20f057327
 
 .filter-button {
     padding: 6px 22px;
